@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/DENdidpip/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/DENdidpip/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/DENdidpip/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
