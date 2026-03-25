@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DENdidpip/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DENdidpip/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DENdidpip/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DENdidpip/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
