@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DENdidpip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DENdidpip/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/DENdidpip/Leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/DENdidpip/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
