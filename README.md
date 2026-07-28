@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DENdidpip/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DENdidpip/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/DENdidpip/Leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DENdidpip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DENdidpip/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DENdidpip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DENdidpip/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/DENdidpip/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DENdidpip/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
