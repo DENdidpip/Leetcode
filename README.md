@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DENdidpip/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/DENdidpip/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/DENdidpip/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DENdidpip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DENdidpip/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DENdidpip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DENdidpip/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/DENdidpip/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/DENdidpip/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DENdidpip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
