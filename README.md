@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/DENdidpip/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DENdidpip/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DENdidpip/Leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/DENdidpip/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DENdidpip/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DENdidpip/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DENdidpip/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 ## Memoization
 |  |
