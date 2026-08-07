@@ -178,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/DENdidpip/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/DENdidpip/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/DENdidpip/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1729-find-followers-count](https://github.com/DENdidpip/Leetcode/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DENdidpip/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
