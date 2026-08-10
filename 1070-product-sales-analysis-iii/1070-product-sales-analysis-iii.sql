@@ -1,13 +1,14 @@
-SELECT 
-    s.product_id,
-    s.year AS first_year,
-    s.quantity,
-    s.price
-FROM Sales s
-join(
-SELECT product_id, MIN(year) AS first_year
+SELECT product_id, year AS first_year, quantity, price
+FROM (
+    SELECT 
+        product_id,
+        year,
+        quantity,
+        price,
+        rank() OVER (
+            PARTITION BY product_id 
+            ORDER BY year
+        ) AS t
     FROM Sales
-    GROUP BY product_id
-) m
-ON s.product_id = m.product_id
-AND s.year = m.first_year;
+) AS s
+WHERE t = 1;
