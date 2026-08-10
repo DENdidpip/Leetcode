@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/DENdidpip/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/DENdidpip/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/DENdidpip/Leetcode/tree/master/0550-game-play-analysis-iv) |
+| [0596-classes-with-at-least-5-students](https://github.com/DENdidpip/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/DENdidpip/Leetcode/tree/master/0607-sales-person) |
 | [1070-product-sales-analysis-iii](https://github.com/DENdidpip/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/DENdidpip/Leetcode/tree/master/1075-project-employees-i) |
