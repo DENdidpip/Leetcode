@@ -199,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/DENdidpip/Leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DENdidpip/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DENdidpip/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DENdidpip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
