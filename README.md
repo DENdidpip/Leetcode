@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DENdidpip/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DENdidpip/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DENdidpip/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/DENdidpip/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DENdidpip/Leetcode/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DENdidpip/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DENdidpip/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DENdidpip/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DENdidpip/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
