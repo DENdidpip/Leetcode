@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DENdidpip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DENdidpip/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DENdidpip/Leetcode/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/DENdidpip/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/DENdidpip/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DENdidpip/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/DENdidpip/Leetcode/tree/master/0214-shortest-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/DENdidpip/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
