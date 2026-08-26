@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DENdidpip/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DENdidpip/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/DENdidpip/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/DENdidpip/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DENdidpip/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/DENdidpip/Leetcode/tree/master/0605-can-place-flowers) |
 ## Database
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DENdidpip/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
