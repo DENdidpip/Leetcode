@@ -4,13 +4,9 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        left, right = 0, (len(height)-1)
-        res = 0
+        left, right, res = 0, (len(height)-1), 0
         for i in range(len(height)):
-            min_wall = min(height[left], height[right])
-            amount = min_wall*(right - left)
-            if amount > res:
-                res = amount
+            res = max(min(height[left], height[right])*(right - left), res) 
             if height[left] < height[right] or height[left] == height[right]:
                 left += 1
             elif height[left] > height[right]:
