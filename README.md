@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/DENdidpip/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DENdidpip/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DENdidpip/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/DENdidpip/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/DENdidpip/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DENdidpip/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/DENdidpip/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/DENdidpip/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DENdidpip/Leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
