@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/DENdidpip/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DENdidpip/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/DENdidpip/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DENdidpip/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DENdidpip/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DENdidpip/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DENdidpip/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DENdidpip/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/DENdidpip/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DENdidpip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/DENdidpip/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/DENdidpip/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DENdidpip/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DENdidpip/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/DENdidpip/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
