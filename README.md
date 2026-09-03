@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/DENdidpip/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/DENdidpip/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/DENdidpip/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DENdidpip/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DENdidpip/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DENdidpip/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/DENdidpip/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DENdidpip/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/DENdidpip/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/DENdidpip/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DENdidpip/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/DENdidpip/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/DENdidpip/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
