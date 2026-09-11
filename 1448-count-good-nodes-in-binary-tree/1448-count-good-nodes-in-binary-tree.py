@@ -10,17 +10,16 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+        self.res = 0
         def move(node, max_value):
-            if node is None:
+            if not node:
                 return 0
             if node.val >= max_value:
-                good = 1
-            else:
-                good =0 
-            max_value = max(max_value, node.val)
-            return good + move(node.left, max_value) + move(node.right, max_value)
-
-        return move(root, root.val)
-            
+                self.res += 1
+                max_value = node.val
+            move(node.left, max_value)
+            move(node.right, max_value)
+        move(root, root.val)
+        return self.res   
 
         
