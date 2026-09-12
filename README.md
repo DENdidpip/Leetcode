@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DENdidpip/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DENdidpip/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DENdidpip/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/DENdidpip/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/DENdidpip/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DENdidpip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DENdidpip/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DENdidpip/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DENdidpip/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/DENdidpip/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/DENdidpip/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DENdidpip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DENdidpip/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DENdidpip/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DENdidpip/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/DENdidpip/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/DENdidpip/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DENdidpip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
