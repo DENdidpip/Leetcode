@@ -1,15 +1,9 @@
-import heapq
+import numpy as np
+
 class Solution(object):
     def findKthLargest(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        pq = []
-        for i in nums:
-            heapq.heappush(pq, i)
-            if len(pq) > k:
-                heapq.heappop(pq)
-        return pq[0]
-        
+        nums = np.array(nums)
+
+        index = len(nums) - k
+
+        return np.partition(nums, index)[index]
