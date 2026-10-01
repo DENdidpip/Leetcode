@@ -1,30 +1,31 @@
-class Solution(object):
+class Solution:
     def letterCombinations(self, digits):
-        """
-        :type digits: str
-        :rtype: List[str]
-        """
         if not digits:
             return []
 
-        mapping = {
-            "2": ['a', 'b', 'c'],
-            "3": ['d', 'e', 'f'],
-            "4": ['g', 'h', 'i'],
-            "5": ['j', 'k', 'l'],
-            "6": ['m', 'n', 'o'],
-            "7": ['p', 'q', 'r', 's'],
-            "8": ['t', 'u', 'v'],
-            "9": ['w', 'x', 'y', 'z']
+        phone = {
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "pqrs",
+            "8": "tuv",
+            "9": "wxyz"
         }
-        res = []
-        def foo(index, path):
-            if index == len(digits):
-                res.append(path)
-                return
-            else:
-                for i in mapping[digits[index]]:
-                    foo(index+1, path+i)
-        foo(0, "")
-        return res
 
+        result = []
+
+        def backtrack(index, current):
+            if index == len(digits):
+                result.append(current)
+                return
+
+            letters = phone[digits[index]]
+
+            for letter in letters:
+                backtrack(index + 1, current + letter)
+
+        backtrack(0, "")
+
+        return result
