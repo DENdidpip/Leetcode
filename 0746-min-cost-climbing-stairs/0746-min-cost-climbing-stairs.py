@@ -1,19 +1,9 @@
 class Solution(object):
     def minCostClimbingStairs(self, cost):
-        memo = {}
-
-        def move(index):
-            if index >= len(cost):
-                return 0
-
-            if index in memo:
-                return memo[index]
-
-            memo[index] = cost[index] + min(
-                move(index + 1),
-                move(index + 2)
-            )
-
-            return memo[index]
-
-        return min(move(0), move(1))
+        pre1=cost[0]
+        pre2=cost[1]
+        for i in range(2,len(cost)):
+            curr=cost[i]+min(pre1,pre2)
+            pre1=pre2
+            pre2=curr
+        return min(pre1,pre2)    
