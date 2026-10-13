@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DENdidpip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DENdidpip/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/DENdidpip/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DENdidpip/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DENdidpip/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/DENdidpip/Leetcode/tree/master/0198-house-robber) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DENdidpip/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DENdidpip/Leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/DENdidpip/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DENdidpip/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DENdidpip/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DENdidpip/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
