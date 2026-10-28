@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DENdidpip/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DENdidpip/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/DENdidpip/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/DENdidpip/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DENdidpip/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DENdidpip/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DENdidpip/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/DENdidpip/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/DENdidpip/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DENdidpip/Leetcode/tree/master/0509-fibonacci-number) |
