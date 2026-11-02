@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DENdidpip/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DENdidpip/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/DENdidpip/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/DENdidpip/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DENdidpip/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DENdidpip/Leetcode/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DENdidpip/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DENdidpip/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DENdidpip/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DENdidpip/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/DENdidpip/Leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
